@@ -56,6 +56,7 @@ gcp-cloud-functions-lb/
 ```bash
 git clone https://github.com/susanthdevops/hello-world-gcp.git
 cd hello-world-gcp
+cd gcp-cloud-functions-lb
 ```
 
 ### 2. Initialize Terraform
